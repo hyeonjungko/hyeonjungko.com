@@ -1,0 +1,15 @@
+.contact {
+    font-family:"Airbnb Cereal App Medium";
+    font-size: 1vw;
+    padding-bottom: 5em;
+}
+
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+}
+  
+a:hover, a:active {
+    text-decoration: underline;
+    text-decoration-color: gray;
+}
