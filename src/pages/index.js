@@ -14,9 +14,10 @@ const IndexPage = () => (
       <title>Hyeonjung Ko</title>
     </Helmet>
     <Intro>
-      I’m Hyeonjung Ko, a Boston–based Software Engineer.<br />
-      A soon-to-be new-grad, 
-      I am currently co-oping at <a id="intro-mercari" href="https://www.mercari.com/">Mercari</a> and was previously at <a id="intro-tripadvisor" href="https://www.tripadvisor.com/">TripAdvisor</a>.
+      I’m Hyeonjung Ko, a Boston–based <br />Software Engineer.<br />
+      <br />
+      A soon-to-be new-grad,<br />
+      I am currently co-oping at <a id="intro-mercari" href="https://www.mercari.com/">Mercari</a> <br />and was previously at <a id="intro-tripadvisor" href="https://www.tripadvisor.com/">TripAdvisor</a>.
     </Intro>
     <Contact>
       <a href="https://www.linkedin.com/in/hyeonjung-ko/">Linkedin</a>, <a href="mailto:hjko1203@gmail.com">Mail</a>

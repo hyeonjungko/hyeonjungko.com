@@ -1,6 +1,6 @@
 .contact {
     font-family:"Airbnb Cereal App Medium";
-    font-size: 1vw;
+    font-size: calc(7px + 0.8vw);
     padding-bottom: 5em;
 }
 
