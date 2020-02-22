@@ -4,40 +4,40 @@
     font-weight: normal;
     src: local('Airbnb Cereal App Book'), url('AirbnbCerealBook.woff') format('woff');
     }
-    
-    
+
+
     @font-face {
     font-family: 'Airbnb Cereal App Light';
     font-style: normal;
     font-weight: normal;
     src: local('Airbnb Cereal App Light'), url('AirbnbCerealLight.woff') format('woff');
     }
-    
-    
+
+
     @font-face {
     font-family: 'Airbnb Cereal App Medium';
     font-style: normal;
     font-weight: normal;
     src: local('Airbnb Cereal App Medium'), url('AirbnbCerealMedium.woff') format('woff');
     }
-    
-    
+
+
     @font-face {
     font-family: 'Airbnb Cereal App Bold';
     font-style: normal;
     font-weight: normal;
     src: local('Airbnb Cereal App Bold'), url('AirbnbCerealBold.woff') format('woff');
     }
-    
-    
+
+
     @font-face {
     font-family: 'Airbnb Cereal App Extra Bold';
     font-style: normal;
     font-weight: normal;
     src: local('Airbnb Cereal App Extra Bold'), url('AirbnbCerealExtraBold.woff') format('woff');
     }
-    
-    
+
+
     @font-face {
     font-family: 'Airbnb Cereal App Black';
     font-style: normal;
@@ -46,7 +46,7 @@
     }
 
 html {
-    background-color: white;
+    background-color: #f6f6ef;
     font-family:'Airbnb Cereal App Book';
     font-size: 16px;
     overflow-y: scroll;
@@ -62,7 +62,7 @@ h1 {
     color: black;
     text-decoration: none;
   }
-  
+
 #intro-mercari:hover, #intro-mercari:active {
     color: #5e6df2;
     text-decoration: none;
@@ -72,7 +72,7 @@ h1 {
     color: black;
     text-decoration: none;
 }
-  
+
 #intro-tripadvisor:hover, #intro-tripadvisor:active {
     color: #00af87;
     text-decoration: none;
